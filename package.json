@@ -1,0 +1,59 @@
+{
+  "name": "blurtest",
+  "version": "1.0.1",
+  "description": "BLUR MARKETPLACE TEST",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustHwj/blurTest.git"
+  },
+  "keywords": [
+    "blur"
+  ],
+  "author": "JustHwj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustHwj/blurTest/issues"
+  },
+  "homepage": "https://github.com/JustHwj/blurTest#readme",
+  "dependencies": {
+    "@ethereumjs/common": "^3.0.2",
+    "@ethereumjs/tx": "^4.0.2",
+    "@ethereumjs/util": "^8.0.3",
+    "@injectivelabs/sdk-ts": "^1.14.4",
+    "@opensea/stream-js": "^0.0.23",
+    "@solana/web3.js": "^1.90.0",
+    "@ton/core": "^0.53.0",
+    "@ton/crypto": "^3.2.0",
+    "@ton/ton": "^13.9.0",
+    "@types/mysql": "^2.15.21",
+    "api": "^5.0.8",
+    "axios": "^1.2.2",
+    "axios-https-proxy-fix": "^0.17.1",
+    "axios-retry": "^3.3.1",
+    "bn.js": "^5.2.0",
+    "buffer": "^6.0.3",
+    "crypto-js": "^4.2.0",
+    "decimal.js": "^10.4.3",
+    "dotenv": "^11.0.0",
+    "ethereum-input-data-decoder": "^0.4.2",
+    "ethereumjs-common": "^1.5.2",
+    "ethereumjs-tx": "^2.1.2",
+    "ethereumjs-util": "^7.1.5",
+    "ethers": "^6.10.0",
+    "got-scraping": "^3.2.10",
+    "ipfs-api": "^26.1.2",
+    "moment": "^2.29.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.1.2",
+    "opensea": "^1.0.1",
+    "opensea-js": "^7.0.7",
+    "web3": "^1.8.2",
+    "ws": "^8.12.1",
+    "xlsx-js-style": "^1.2.0",
+    "xlsx-style": "^0.8.13"
+  }
+}
